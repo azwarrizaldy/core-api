@@ -1,5 +1,5 @@
 # core-api
-Final Project Data Expert G2Academy
+Final Project Data Expert G2Academy |
 author : azwar8597@gmail.com
 
 This project describes how to build a REST API from a machine learning model that has been created.
