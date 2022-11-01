@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+python-multipart
+pickle
+python-dotenv
+boto3
+sklearn
