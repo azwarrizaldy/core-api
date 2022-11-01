@@ -21,3 +21,6 @@ This project describes how to build a REST API from a machine learning model tha
   - initiation parameter
   - run model for prediction
   - print result prediciton to JSON file
+
+## Requirements
+-
