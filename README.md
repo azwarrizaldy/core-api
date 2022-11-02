@@ -4,7 +4,7 @@
 This project describes how to build a REST API from a machine learning model that has been created.
 
 ## The process steps are as follows:
-### 1. API to get latest ml model
+### 1. API to get latest machine learning model
   - connect to AWS S3 Resource
   - read list folder model in AWS S3
   - get last model from folder model
@@ -23,4 +23,11 @@ This project describes how to build a REST API from a machine learning model tha
   - print result prediciton to JSON file
 
 ## Requirements
--
+  - fastapi
+  - uvicorn[standard]
+  - pandas
+  - python-multipart
+  - pickle
+  - python-dotenv
+  - boto3
+  - sklearn
